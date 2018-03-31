@@ -51,6 +51,6 @@ Randomly generate maps each time
 
 **citation**
 
-https://docs.unity3d.com/ScriptReference/SpriteRenderer.html\
+https://docs.unity3d.com/ScriptReference/SpriteRenderer.html \
 https://docs.unity3d.com/ScriptReference/Sprite.html
 
